@@ -4,7 +4,7 @@ Biblioteca de geração de código de pix válido para pagamentos.
 
 # Tecnologias
 
-- Kotlin 1.8
+- Kotlin 1.9
 
 # Dependência
 
